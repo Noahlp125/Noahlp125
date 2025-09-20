@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/36/56/1a/36561ac2de9a4fdf22be032a3accead9.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -22,6 +18,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/36/56/1a/36561ac2de9a4fdf22be032a3accead9.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/ainhoalp03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -35,19 +35,8 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noahlp125/Noahlp125/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noahlp125/Noahlp125/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Noahlp125/Noahlp125/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
+<div align="right">
   <img height="200" src="https://i.pinimg.com/originals/54/e1/d6/54e1d64489baf626c6f3c93de93b6913.gif"  />
 </div>
 
 ###
-
