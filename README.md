@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Noah<br>🔐 A Cybersecurity & Blockchain Security Professional<br><br>    🔭 I’m currently working on Hackchain<br><br>    🌱 I’m a professional on Security Blockchain. <br> Certifications: CRTOM,CCST</h2>
+<h2 align="left">Hi 👋, I'm Noah<br>🔐 A Cybersecurity & Blockchain Security Professional<br><br>    🔭 I’m currently working on Hackchain<br><br>    🌱 Certifications: CRTOM,CCST</h2>
 
 ###
 
